@@ -10,7 +10,7 @@ This project performs basic CRUD operations to manage student records.
 - Core Java
 - Collections (ArrayList)
 ## Project Description
-This is application allows users to manage student data Such as ID, Name, Email, and Course using a console-based interface
+This application allows users to manage student data Such as ID, Name, Email, and Course using a menu-driven console interface.
 ## Future Enhancements
-- Add frontend using HTML, CSS, JavaScript
-- Convert to web application 
+- This application can be enhanced by integrating a database to store student data permanently.
+- The system can be extended with a graphical user interface and user authentication for better usability.
